@@ -95,4 +95,4 @@ exclude:
   - "*.Rmd"
   - .git*
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
